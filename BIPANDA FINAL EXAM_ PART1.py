@@ -7,7 +7,7 @@ Created on Thu Jul 17 14:01:10 2025
 """
 
 #Task 1 write a program using a for a loop to print the square of numbers from 1 to 13
-for i in range(1, 13):  # Loop through numbers from 1 to 13
+for i in range(1, 14):  # Loop through numbers from 1 to 13
     print(i ** 2)  # Print the square of the current number
     
     
